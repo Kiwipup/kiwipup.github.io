@@ -2,9 +2,27 @@
 layout: page
 ---
 
-# My first week at Awesome Inc
+# My first two weeks at Awesome Inc
 
-Well to start my first blog post I think I should start with how I came find out about Awesome inc
-as well as the process before my acceptance into the program. Before I began this journey into software development I had been working for close to two years at a small company in Elizabethtown KY called Scheduleit LLC. It was my first office job and I was *thrilled*, little did I know the path this seemingly small change in my life would take me on! I had never attended college, and had worked at several different warehouses in the area so I was ready to make the change over to a more professional setting and my motto was "Fake it until you make it." I had never dabbled in any sort of beginner web development such as playing with CSS or HTML but I was fairly tech savvy and learned the details of the features in our company's software very fast. In turn, I was offered the opportunity to help our very small technology department with any QA they needed for the features they were working on. In other words I spent a lot of time trying to think of a way to break their stuff.. And I loved it! Being in that environment around the developers and seeing what they did caused the small spark that was to turn into a burning flame, I finally had a direction I wanted to take and I was going to follow through with it. Self teaching software development is a very slow process, there are so many conflicting opinions on where to start, what tools to use, whats right and whats wrong when you are relying on the internet to learn. I started trying to self teach in early 2017, and by summer of this year I had a minimal knowledge of HTML, CSS, a basic understanding of the github version control workflow, and also a decent understanding of using JIRA for collaboration. So...Not alot, but definitely something. Then something crazy happened!
+It's hard to believe that within just two short weeks I have learned so much and the days
+of prework seem ages away. I came into the bootcamp with a minimal knowledge of HTML, CSS, Javascript, PHP, and a little bit of bootstrap. In just our first week we covered an abundance of topics:
 
-This summer just a couple of months ago the CEO of Scheduleit sent me a link regarding the Awesome Inc open house which was scheduled three days before the application deadline for Bootcamp 2018. In my adventure with self teaching software development I had looked into a bootcamp as a definite option but like most amazing and life changing things there comes a price. A very **BIG** price tag! So I was unsure of if or when I would be able to attend a software development bootcamp but I figured I would go to the open house, meet some new people, and just see what its all about. Going to the open house was inspiring to say the least, when I left I was prepared to save and work hard and made it my goal to attend next year. I spoke to one of our developers at work, Jonathan, who coincidentally had actually come to work at our company straight out of Awesome Inc and his words encouraged me even further. It would be more than worth it! Our CEO asked me what I thought about the open house and I shared my excitement with her too as well as my goal. That's when things got a little crazy.. She asked me what I would do if the roadblocks that were stopping me from attending this year could be removed. This small company in Elizabethtown Kentucky thought the work I had done in my time there
+* Refining our understanding of Git and Github
+
+* Integrating tools for streamlining our work Ex. Sass, Bootstrap, browser-sync etc..
+
+* We created and merged our first pull requests
+
+* Daily exposure to Javascript through warm-ups
+
+* Learning how to learn
+
+With all of these new things being introduced in the first week, my head was spinning! My old routine of going to work and being the expert in what I do had changed, I was a student again. It was a little overwhelming at times, but the reward of learning something new every day and looking forward to what lies in the future outweighs any self-doubt or insecurity **by far**. My biggest challenge will be maintaining enough self discipline to manage my time outside of class and use as much free time as I can to learn more.
+
+During week two we dove straight into Javascript and started our first project using Javascript. This is where things started to get a little scary for me, it helped me identify the areas that I really needed to work on. Some things I feel I was deficient in:
+
+* My ability to communicate effectively in pair programming
+
+* My grasp on using the bootstrap grid system for styling
+
+* My understanding of functions and function calls in Javascript
