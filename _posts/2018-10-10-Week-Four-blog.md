@@ -1,3 +1,8 @@
+---
+layout: page
+---
+
+
 # Week four of classes, wrestling with Javascript and Vue.js
 
 Four the past couple of weeks since my last blog post, we have really be getting
@@ -15,4 +20,4 @@ people can sign up and create a group of tasks or chores that they need to be co
 They can add other users to their task group and delegate the tasks to each member of said
 group. Then each member can check off the tasks as they get them completed! This is just
 rough overview so I'm not completed sure what it would entail. I think there is plenty
-of room to think of new cool features I could add though as I learn more. 
+of room to think of new cool features I could add though as I learn more.
