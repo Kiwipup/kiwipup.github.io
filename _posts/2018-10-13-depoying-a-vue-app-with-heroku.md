@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-## Deploying a vue.js app made with the Vue CLI to Heroku
+# Deploying a vue.js app made with the Vue CLI to Heroku
 
     So I had some issues yesterday with deploying an app to Heroku that I made with
   the Vue cli. It was only my second time deploying anything to Heroku on my own, and
