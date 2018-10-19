@@ -1,10 +1,101 @@
-body {
-  background-color: lightyellow;
+.foobar {
+  background-color: rgba(black, 0.7) !important;
 }
-img {
+.profilepic {
   height: 200px;
   width: 200px;
 }
 body {
   font-family: Helvetica;
+  background-color: transparent !important;
 }
+body, html {
+    height: 100%;
+}
+#nav {
+  height: 70px;
+  background: transparent; // Transparent initial setting
+  display: block;
+  position: fixed;
+  width: 100%;
+  z-index: 99999;
+  transition: all ease .5s;
+}
+
+#logo {
+  color: #fff;
+  padding: 20px;
+  font-size: 18px;
+  transition: all ease .5s;
+}
+#logo a {
+  color: #fff !important;
+}
+
+
+#nav.shrink {
+  height: 40px;
+  transition: all ease .5s;
+  background: rgba(0,0,0,0.5); // Change background to black on scroll
+}
+
+#nav.shrink #logo {
+  padding: 10px;
+  transition: all ease .5s;
+}
+
+.jumbotron {
+    /* The image used */
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/path-in-the-wheat-at-pourville-claude-monet.jpg");
+
+    /* Full height */
+    /*height: 100%;*/
+    height: 347px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+
+    /* Create the parallax scrolling effect */
+  /*  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+
+}
+
+/* Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap*/
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) {
+/*  .container {
+    max-width: 346px;
+  }*/
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+/*  .container {
+    max-width: 538px;
+  }*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+
+  /*.container {
+    max-width: 762px;
+  }*/
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+.container {
+  max-width: 970px;
+}
+
+ }
