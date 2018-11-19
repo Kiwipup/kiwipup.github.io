@@ -123,10 +123,7 @@ body.pretty {
    margin-top: 200px
  }
 
- .info {
-   background: rgba(0,0,0,.7);
 
- }
 
  span > a{
    font-size: 60px;
@@ -136,4 +133,9 @@ body.pretty {
  #links .current a {
 	background: #666;
 	color: #ededed;
+}
+
+#about, #portfolio {
+  background: rgba(0,0,0,.7);
+
 }
