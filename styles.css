@@ -14,7 +14,7 @@ body {
 }*/
 #nav {
   height: 70px;
-  background: transparent; // Transparent initial setting
+  background: rgba(145,168,208,.9);
   display: block;
   position: fixed;
   width: 100%;
@@ -41,9 +41,9 @@ body {
 
 
 #nav.shrink {
-  height: 60px;
+  height: 50px;
   transition: all ease .5s;
-  background: rgba(145,168,208,.7); // Change background to black on scroll
+  background: rgba(145,168,208,.9); // Change background to black on scroll
 }
 
 #nav.shrink #logo {
@@ -57,12 +57,12 @@ body {
 
 
 
-.jumbotron {
+body.pretty {
     /* The image used */
-    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/path-in-the-wheat-at-pourville-claude-monet.jpg");
+    background-image: url("https://wallup.net/wp-content/uploads/2017/11/22/407968-programming-PHP-programming_language-syntax_highlighting-minified-knowledge-coding-code-HTML-color_codes-CSS-computer-pixels-Computer_screen-logic-748x517.jpg");
 
     /* Full height */
-    height: 500px;
+    height: 100%;
     /*height: 347px;
         background-position: center;
         background-repeat: no-repeat;
@@ -73,7 +73,8 @@ body {
    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;*/
+    background-size: cover;
+    color: white;
 
 }
 
@@ -111,3 +112,27 @@ body {
 }
 
  }
+
+ div.content {
+   margin-top:300px;
+
+ }
+
+ div.hook {
+   margin-top: 200px
+ }
+
+ .info {
+   background: rgba(0,0,0,.7); // Change background to black on scroll
+
+ }
+
+ span > a{
+   font-size: 60px;
+   margin-right: 20px;
+ }
+
+ #links .current a {
+	background: #666;
+	color: #ededed;
+}
