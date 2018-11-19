@@ -17,6 +17,7 @@ body {
   background: rgba(145,168,208,.9);
   display: block;
   position: fixed;
+  top: 0;
   width: 100%;
   z-index: 99999;
   transition: all ease .5s;
@@ -123,7 +124,7 @@ body.pretty {
  }
 
  .info {
-   background: rgba(0,0,0,.7); // Change background to black on scroll
+   background: rgba(0,0,0,.7);
 
  }
 
